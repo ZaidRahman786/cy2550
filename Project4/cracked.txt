@@ -1,0 +1,27 @@
+Failed to parse hashes using the 'native hashcat' format.
+acetylesorc:computer
+ancyprol:iloveyou
+apenguinlead:password
+aquaverit:wizard
+aralmoni:ferrari
+babestahinlove:123321
+baignolje:dakota
+bobhyper:charlie
+chiricsen:buster
+craziinan:nascar
+fortuneud:rangers
+hipurcedree:scooby
+infiguard:diamond
+lynnaps:test
+makiomed:eagles
+omahardee:gateway
+onev2:2601757
+platinumvintage:google
+prodott:131313
+prothenorn:987654321
+rightsubl:0605820
+royalcortli:555555
+sanbenect:welcome
+technof:zxcvbn
+tuchillpro:7777777
+twistwalkea:enter
